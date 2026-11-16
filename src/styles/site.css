@@ -1,0 +1,20 @@
+/* Yasmin Ahmed brand tokens (official palette). Edit brand colors here only. */
+:root{
+  --y-ink:#011819;     /* near-black */
+  --y-deep:#09494c;    /* deep teal */
+  --y-teal:#2d9696;    /* teal */
+  --y-copper:#c97e41;  /* copper accent */
+  --y-cream:#fff5e0;   /* cream */
+  --y-stone:#a69b93;   /* warm grey */
+  /* derived tints/shades (accessible text on cream/teal) */
+  --y-copper-hover:#d6955f;
+  --y-copper-text:#8f4f1c;
+  --y-copper-tint:#fbeadb;
+  --y-copper-light:#f1c9a5;
+  --y-teal-tint:#e3efee;
+  --y-stone-text:#5c534d;
+  --y-line:#e6d9c2;
+  --y-tile:#fffcf5;
+  --y-on-dark:#fff5e0;
+  --y-on-dark-muted:#fff5e0bf;
+}
